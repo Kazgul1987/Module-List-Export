@@ -4,7 +4,7 @@
   "description": "Adds a macro to export the list of active modules to a text file.",
   "version": "1.0.0",
   "authors": [
-    { "name": "OpenAI" }
+    { "name": "Kazgul1987" }
   ],
   "compatibility": {
     "minimum": "13",
@@ -14,5 +14,5 @@
   "system": ["pf2e"],
   "url": "https://github.com/yourname/Module-List-Export",
   "manifest": "https://raw.githubusercontent.com/Kazgul1987/Module-List-Export/main/module.json",
-  "download": "https://github.com/Kazgul1987/Module-List-Export/releases/download/latest/module.zip"
+  "download": "https://github.com/Kazgul1987/Module-List-Export/releases/latest/download/module.zip"
 }
