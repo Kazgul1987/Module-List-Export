@@ -1,0 +1,18 @@
+{
+  "id": "module-list-export",
+  "title": "Module List Export",
+  "description": "Adds a macro to export the list of active modules to a text file.",
+  "version": "1.0.0",
+  "authors": [
+    { "name": "OpenAI" }
+  ],
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "esmodules": ["scripts/export.js"],
+  "system": ["pf2e"],
+  "url": "https://github.com/yourname/Module-List-Export",
+  "manifest": "https://raw.githubusercontent.com/yourname/Module-List-Export/main/module.json",
+  "download": "https://github.com/yourname/Module-List-Export/releases/download/1.0.0/module-list-export.zip"
+}
