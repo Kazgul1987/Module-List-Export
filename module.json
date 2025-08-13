@@ -13,6 +13,6 @@
   "esmodules": ["scripts/export.js"],
   "system": ["pf2e"],
   "url": "https://github.com/yourname/Module-List-Export",
-  "manifest": "https://raw.githubusercontent.com/yourname/Module-List-Export/main/module.json",
-  "download": "https://github.com/yourname/Module-List-Export/releases/download/1.0.0/module-list-export.zip"
+  "manifest": "https://raw.githubusercontent.com/Kazgul1987/Module-List-Export/main/module.json",
+  "download": "https://github.com/Kazgul1987/Module-List-Export/releases/download/latest/module.zip"
 }
